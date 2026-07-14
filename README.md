@@ -1,4 +1,6 @@
-
+## preview
+ https://github.com/user-attachments/assets/65b5c1cd-c82a-4e08-8045-999230084ce8
+ 
 Yeh ek bohot hi clean aur responsive **Flight Search UI** hai jo aapne Flutter mein banaya hai. GitHub repository ke liye ek behtareen aur professionally formatted **README.md** file ka description niche hazir hai:
 # Flight Search App UI - Flutter
 A beautiful, modern, and clean **Flight Search UI** built using Flutter. This project showcases a responsive form design for booking flights, complete with interactive custom widgets such as date/time pickers, trip type selection, and customized dropdowns.
